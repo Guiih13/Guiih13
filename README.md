@@ -11,3 +11,11 @@
 <font size=20>Estatísticas Gerais</font><br>
 ![Guiih13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true)
 
+
+<br>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-martins-serafim-1b594b1a2/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
