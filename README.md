@@ -8,6 +8,6 @@
 
 <br>
 
-<font size=10>Estatísticas Gerais</font>
+<font size=10>Estatísticas Gerais</font><br>
 ![Guiih13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true)
 
