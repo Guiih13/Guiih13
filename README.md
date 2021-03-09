@@ -7,4 +7,5 @@
 - :computer: Estudante de Ciências de Dados (EAD) na Universidade Cidade de São Paulo
 
 
-#3776AB 
+![Guiih13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true)
+
