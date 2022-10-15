@@ -10,9 +10,9 @@
 <font size=20>Estatísticas Gerais</font><br>
 
 <a href="https://github.com/Guiih13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true&theme=merko&include_all_commits=true&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true&theme=merko&include_all_commits=true&border_color=#000" />
 </a>
 
 <a href="https://github.com/Guiih13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=merko&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=merko&border_color=#000" />
 </a>
