@@ -14,5 +14,5 @@
 </a>
 
 <a href="https://github.com/Guiih13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=buefy&card_widht=350&line_height=30" />
 </a>
