@@ -8,9 +8,9 @@
 <br>
 
 <font size=20>Estatísticas Gerais</font><br>
-![Guiih13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true&theme=synthwave)
+![Guiih13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=synthwave)](https://github.com/Guiih13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiih13&theme=merko)](https://github.com/Guiih13/github-readme-stats)
 
 
 <a target="_blank" href="https://www.linkedin.com/in/guilherme-martins-serafim-1b594b1a2/">
