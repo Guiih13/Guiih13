@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- :punch: Bem-vindo ao meu GitHub!
-- :calendar: Tenho 23 anos.
+- :punch: Welcome to my GitHub!
+- :calendar: I'm 23 years old
 - :pushpin: Brazil, São Paulo
 - :computer: Estudante de Banco de Dados na Faculdade Impacta
+- :cloud: Azure Data Engineer Associate | Azure Certified 4x
 
 <br>
-
-<font size=20>Estatísticas Gerais</font><br>
 
 <a href="https://github.com/Guiih13/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guiih13&show_icons=true&include_all_commits=true&theme=buefy&card_width=500&border_color=4c71f2" />
