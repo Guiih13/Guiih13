@@ -3,8 +3,9 @@
 - :punch: Welcome to my GitHub!
 - :calendar: I'm 23 years old
 - :pushpin: Brazil, São Paulo
-- :computer: Estudante de Banco de Dados na Faculdade Impacta
-- :cloud: Azure Data Engineer Associate | Azure Certified 4x
+- :computer: Graduado em Banco de Dados pela Faculdade Impacta
+- :computer: Estudante de MBA Cloud Engineering & DevOps na FIAP
+- :cloud: Azure Data Engineer Associate | Azure Certified 6x
 
 <br>
 
