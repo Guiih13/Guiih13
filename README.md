@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :punch: Welcome to my GitHub!
-- :calendar: I'm 23 years old
+- :calendar: Tenho 23 anos
 - :pushpin: Brazil, São Paulo
 - :computer: Graduado em Banco de Dados pela Faculdade Impacta
 - :computer: Estudante de MBA Cloud Engineering & DevOps na FIAP
